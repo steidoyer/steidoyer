@@ -1,4 +1,12 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=이상현👋&fontSize=90)
+
+- Frontend Develoment
+- Backend Development
+- AI Engineering
+
+## skill
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+  
 
 <!--
 **steidoyer/steidoyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
